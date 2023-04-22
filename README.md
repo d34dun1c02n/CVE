@@ -1,5 +1,5 @@
 # CVE-2023-30458
-Exploit Title: Medicine Tracker System 1.0.- Observable Discrepancy: Username enumeration via response timing
+Exploit Title: Medicine Tracker System 1.0 - Observable Discrepancy: Username enumeration via response timing
 
 Date: April, 22 2023
 
