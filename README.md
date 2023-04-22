@@ -1,12 +1,20 @@
 # CVE-2023-30458
 Exploit Title: Medicine Tracker System 1.0.- Observable Discrepancy: Username enumeration via response timing
+
 Date: April, 22 2023
+
 Exploit Author: William David Mathisen (d34dun1c02n)
+
 Vendor Homepage: https://www.sourcecodester.com/php/16308/medicine-tracker-system-php-oop-and-mysql-db-source-code-free-download.html
+
 Software Link: https://www.sourcecodester.com/download-code?nid=16308&title=Medicine+Tracker+System+in+PHP+%28OOP%29+and+MySQL+DB+Source+Code+Free+Download
+
 Version: v1.0
+
 Tested on: Kali Linux, XAMPP, Mysql
+
 CVE : 2023-30458
+
 Exploit Description:
 A username enumeration issue was discovered in Medicine Tracker System 1.0. The login functionality allows a malicious user to guess a valid username due to a different response time from invalid usernames.
 
