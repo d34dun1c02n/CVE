@@ -18,7 +18,8 @@ CVE : 2023-30458
 Exploit Description:
 A username enumeration issue was discovered in Medicine Tracker System 1.0. The login functionality allows a malicious user to guess a valid username due to a different response time from invalid usernames.
 
-Manual Attack Vector
+Manual Attack Vector:
+
 Manual attack path: Url: http://localhost/php-mts/app/login.php
 
 1. With Burp running, submit an invalid username and password, then send the POST /php-mts/app/login.php request to Burp Repeater.
